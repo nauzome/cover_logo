@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="210mm" height="210mm" version="1.1" viewBox="0 0 210 210" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1612" x1="48.642" x2="121.88" y1="195.08" y2="23.652" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fb8601" offset="0"/>
+   <stop stop-color="#ffbf00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <path d="m45.359 166.33-0.38294 33.459 31.906-17.939s45.919 14.299 85.777-14.217c39.857-28.516 37.185-67.52 37.185-67.52s2.2186-42.158-33.322-69.351c-35.54-27.193-73.986-19.688-73.986-19.688s-36.756 3.237-60.142 30.142c-23.386 26.905-22.246 51.877-22.246 51.877s-1.0307 25.854 9.3562 42.783c10.387 16.928 18.43 26.858 25.854 30.455z" fill="url(#linearGradient1612)"/>
+  <path d="m148.61 55.784-101.45 38.627 26.839 10.605 10.805 30.732 2.9678-23.628 43.871 28.63s17.318-85.03 16.97-84.967z" fill="#fff"/>
+  <path d="m73.998 105.02 57.857-34.373-44.084 41.478-2.9678 23.628z" fill="#ddd"/>
+  <path d="m84.803 135.75 18.536-13.42-15.568-10.208z" fill="#b8b8b8"/>
+ </g>
+</svg>
